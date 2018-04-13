@@ -1,0 +1,6 @@
+C:\Users\Sonny\source\repos\MusicApp\MusicApp.Domain\bin\Debug\MusicApp.Domain.dll
+C:\Users\Sonny\source\repos\MusicApp\MusicApp.Domain\bin\Debug\MusicApp.Domain.pdb
+C:\Users\Sonny\source\repos\MusicApp\MusicApp.Domain\obj\Debug\MusicApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sonny\source\repos\MusicApp\MusicApp.Domain\obj\Debug\MusicApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sonny\source\repos\MusicApp\MusicApp.Domain\obj\Debug\MusicApp.Domain.dll
+C:\Users\Sonny\source\repos\MusicApp\MusicApp.Domain\obj\Debug\MusicApp.Domain.pdb
